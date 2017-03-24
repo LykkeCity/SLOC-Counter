@@ -9,3 +9,6 @@ At the start of program, one should enter the username/password for github acces
 
 ## Output
 At the end of program execution, there will be a .txt and .csv output
+
+## Method
+The method used is to sum all additions and deletions in all commits. Similar to https://addons.mozilla.org/en-US/firefox/addon/github-sloc/
